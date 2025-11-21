@@ -10,8 +10,6 @@ A responsive e-commerce web application built using plain HTML, CSS, and JavaScr
 
 - Add to cart functionality
 
-- Cart page with item quantity update and total price calculation
-
 - Navigation bar with categories or sections
 
 # Purpose & Goals
