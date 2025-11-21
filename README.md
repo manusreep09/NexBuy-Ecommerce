@@ -12,11 +12,7 @@ A responsive e-commerce web application built using plain HTML, CSS, and JavaScr
 
 - Cart page with item quantity update and total price calculation
 
-- Checkout simulation (frontend-only)
-
 - Navigation bar with categories or sections
-
-- UI feedback for adding/removing items in cart
 
 # Purpose & Goals
 
